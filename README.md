@@ -1,6 +1,7 @@
-# WindorwsBarcodeApp
-You can add items on your database,your barcode information and when you need them you can search on time 
-your informations or keep track of changes live.
+# WindorwsBarcodeAppYou can add your barcode information to your database. 
+
+If you need them, you can search on the database for information saved between dates that you want,
+or you can keep track of changes live.
 
 You can add item type with 'Kod Ekle' button or delete it with 'Parca Kodu Sil' button.
 
@@ -12,17 +13,17 @@ When you choose your item type and push load,item's list will appear. You can ed
 
 ![image](https://user-images.githubusercontent.com/41550105/48911249-6193c200-ee83-11e8-8306-a2d8cfd0d7db.png)
 
-On the Form2 You can search your datas between dates that choose.
+On the Form2 You can search your data between dates you choose
 
 You should chose dates and item type.Then push the 'BUL' button.
 
-The items that saves on the dates you choose will appear. 
+The items that saved on the dates you choose will appear. 
 
 You can clean the screen with 'TEMİZLE' button.
 
-İf you want print your datas, you should  push 'Excel'e aktar' button. Datas you choose save as excel format  on where you want.
+İf you want to print your data, you should  push 'Excel'e aktar' button. Data you choose will be saved as excel at where you want.
 
-İf you want keeping track of changes. You should push 'İzlema Ekranı' button. Live screen is going to appear. 
+İf you want to keep track of changes.,you should push 'İzlema Ekranı' button. Live screen is going to appear. 
 Changes can be tracked live.
 
 ![image2](https://user-images.githubusercontent.com/41550105/48911292-7e2ffa00-ee83-11e8-8e83-8cf8637a586d.png)
