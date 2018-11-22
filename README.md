@@ -5,7 +5,7 @@ or you can keep track of changes live.
 
 You can add item type with 'Kod Ekle' button or delete it with 'Parca Kodu Sil' button.
 
-When you choose your item type and push load,item's list will appear. You can edit your list with 'Düzenle' button or delete with 'Sil'
+When you choose your item type and push 'yükle' button,item's list will appear. You can edit your list with 'Düzenle' button or delete with 'Sil' button
 
 'Kaydet' button saves changes on your database.
 
@@ -15,7 +15,7 @@ When you choose your item type and push load,item's list will appear. You can ed
 
 On the Form2 You can search your data between dates you choose
 
-You should chose dates and item type.Then push the 'BUL' button.
+You should choose dates and item type.Then push the 'BUL' button.
 
 The items that saved on the dates you choose will appear. 
 
@@ -23,7 +23,7 @@ You can clean the screen with 'TEMİZLE' button.
 
 İf you want to print your data, you should  push 'Excel'e aktar' button. Data you choose will be saved as excel at where you want.
 
-İf you want to keep track of changes.,you should push 'İzlema Ekranı' button. Live screen is going to appear. 
+İf you want to keep track of changes,you should push 'İzlema Ekranı' button. Live screen is going to appear. 
 Changes can be tracked live.
 
 ![image2](https://user-images.githubusercontent.com/41550105/48911292-7e2ffa00-ee83-11e8-8e83-8cf8637a586d.png)
