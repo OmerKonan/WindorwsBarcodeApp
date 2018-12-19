@@ -1,5 +1,5 @@
-# WindorwsBarcodeAppYou can add your barcode information to your database. 
-
+# WindorwsBarcodeApp
+You can add your barcode information to your database. 
 If you need them, you can search on the database for information saved between dates that you want,
 or you can keep track of changes live.
 
